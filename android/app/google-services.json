@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678342095023",
+    "project_id": "jobportal-ce8bd",
+    "storage_bucket": "jobportal-ce8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678342095023:android:824b7059b4b1292ab4e45a",
+        "android_client_info": {
+          "package_name": "com.hamzadev.jobfind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEMqkEk8wqfrl_6fwHnethHaosFCLnMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
